@@ -1,16 +1,20 @@
-# Mr.Rao Welcome to my GitHub Portfolio! 👋
-<h1 align="center">Hi 👋, I'm MohanRao</h1>
-<h3 align="center">I'm MohanRao, an experienced Data Analyst with a strong passion for Data Engineering and Visualization. I thrive on learning, exploring data, and uncovering meaningful insights. I enjoy coding in Python and working with cloud platforms such as AWS, Snowflake, and Databricks. I specialize in building impactful visualizations using Tableau, Power BI, Qlik Sense, and QuickSight, and I love sharing my analytics journey through blogging.</h3>
-
-- 💬 Ask me about **BI Reporting latest updates and Data Engineering Tips and Tricks**
+# Mr.Mohan Rao Bagawat
+<h5 align="left">
+Welcome to my GitHub Portfolio! 👋
+<h5 align="left">
+Hi I'm MohanRao 👋, </h5>
+<h7 align="left"> <p style="font-family:Georgia; font-size:20px;">
+  Experienced Data Analyst with a strong passion for Data Engineering and Visualization. I thrive on learning, exploring data, and uncovering meaningful insights. I enjoy coding in Python and working with cloud platforms such as AWS, Snowflake, and Databricks. I specialize in building impactful visualizations using Tableau, Power BI, Qlik Sense, and QuickSight, and I love sharing my analytics journey here.</h3>
+<h7 align="left"> </p>
+  💬 Ask me about **BI Reporting latest updates and Data Engineering Tips and Tricks**
 
 - 📫 How to reach me **mohan.rao.bagawat36@gmail.com**
 
-- ⚡ Fun fact **I am Ashtanga Yoga Teacher and practitioner**
+- ⚡ Fun fact **I am Ashtanga Yoga Teacher and practitioner completed 200 hr TTC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohanrao36/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohanrao36/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/[https://www.linkedin.com/in/mohanrao36/](https://www.linkedin.com/in/mohanrao36/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohanrao36/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
