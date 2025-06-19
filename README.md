@@ -4,13 +4,13 @@ Welcome to my GitHub Portfolio! 👋
 <h5 align="left">
 Hi I'm MohanRao 👋, </h5>
 <h7 align="left"> <p style="font-family:Georgia; font-size:20px;">
-  Experienced Data Analyst with a strong passion for Data Engineering and Visualization. I thrive on learning, exploring data, and uncovering meaningful insights. I enjoy coding in Python and working with cloud platforms such as AWS, Snowflake, and Databricks. I specialize in building impactful visualizations using Tableau, Power BI, Qlik Sense, and QuickSight, and I love sharing my analytics journey here.</h3>
+  Experienced Data Analyst with a strong passion for BI Reporting, BI Admin and Data Engineering I thrive on learning, exploring data, and uncovering meaningful insights. I enjoy coding in Python and working with cloud platforms such as AWS, Snowflake, and Databricks. I specialize in building impactful visualizations using Tableau, Power BI, Qlik Sense, and QuickSight, Gained valuable experience working on one of the world’s largest Tableau Server clusters, consisting of over 70 nodes 2TB nodes and I love sharing my analytics journey here.</h3>
 <h7 align="left"> </p>
   💬 Ask me about **BI Reporting latest updates and Data Engineering Tips and Tricks**
 
 - 📫 How to reach me **mohan.rao.bagawat36@gmail.com**
 
-- ⚡ Fun fact **I am Ashtanga Yoga Teacher and practitioner completed 200 hr TTC**
+- ⚡ Hobbies and other practices **Ashtanga Yoga Teacher and practitioner (completed 200 hr TTC)** and **Trekking and Cycling** and **Acting and script writing (Acted **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
